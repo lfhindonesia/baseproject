@@ -1,2 +1,2 @@
-node_modules/
-.next/
+/webapps/node_modules/
+/webapps/.next/
