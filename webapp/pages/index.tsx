@@ -21,6 +21,10 @@ export default function Home() {
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
+	<p className={styles.description}>
+	 -TEST OKA-
+	</p>
+
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
